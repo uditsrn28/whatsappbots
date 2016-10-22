@@ -1,6 +1,7 @@
 # Simple Whatsapp Bots
 To run, follow these steps on command line:
- - Install yowsup library : ```git clone git://github.com/tgalal/yowsup.git
+ - Install yowsup library :
+                        ```git clone git://github.com/tgalal/yowsup.git
 
                                  cd yowsup
 
