@@ -1,10 +1,10 @@
 # Simple Whatsapp Bots
 To run, follow these steps on command line:
- - Install yowsup library : ```git clone git://github.com/tgalal/yowsup.git```
+ - Install yowsup library : ```git clone git://github.com/tgalal/yowsup.git
 
-                                 ```cd yowsup```
+                                 cd yowsup
 
-                                 ```sudo python setup.py install```
+                                 sudo python setup.py install```
 
  - Register on Whatsapp using OTP method : You can check the country-code, mcc and mnc from this https://en.wikipedia.org/wiki/Mobile_country_code.
 
